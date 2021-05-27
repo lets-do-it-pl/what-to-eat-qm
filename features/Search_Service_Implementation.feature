@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Feature: Search Service Implementation
 
   Scenario: Saving Food Tags
@@ -27,3 +28,6 @@ Feature: Search Service Implementation
   
   
   
+=======
+Feature:
+>>>>>>> 5cc480f (Create Search_Service_Implementation.feature)
