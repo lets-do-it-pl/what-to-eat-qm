@@ -7,7 +7,8 @@ Feature:Job Worker Service Implementation
       |Api Consuming Job              |
       |Spoonacular Api Consuming Job  |    
       |MealDb Api Consuming Job       |     
-      |Main Page Foods Refreshing Job |    
+      |Main Page Foods Refreshing Job |
+      | trial                         |
       
 
   Scenario:
