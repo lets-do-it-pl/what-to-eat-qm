@@ -1,0 +1,19 @@
+Index: features/Job_Worker_Service_Implementation.feature
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Feature:Job Worker Service Implementation\n  \n  Scenario:\n    Given job worker service stores scheduled job details\n    When job details are <Name> <Key> <Execution period>\n    \n      |Api Consuming Job              |\n      |Spoonacular Api Consuming Job  |    \n      |MealDb Api Consuming Job       |     \n      |Main Page Foods Refreshing Job |\n      | trial                         |\n      \n\n  Scenario:\n       Given the work service an execution period\n       When 30 minutes execution period provided\n     \n    \n    Scenario:\n      Given the database executions of the history\n      When the work service checks each job to be executed\n      And unrelated data stores in the history table and latest executions table in the database.\n      # When the current date is not matching with calculated date do nothing.  \n    \n    Scenario:\n      Given the database latest execution table of the history\n      When the work service checks each job to be executed\n      And the job gets the latest execution time and execution period in minutes\n      Then current date and calculated date stores in the database.\n      When the current date is not matching with calculated date do nothing.\n      When the current date is higher than the calculated date \n      And execute the job and store in the history table and update the record in the latest execution table\n      \n    Scenario:\n      Given information of execution service\n      When the information placed in the command entitites\n      And the command entity will call ConsumeFoodApiEntity\n      When the given \"ConsumeFoodApiEntity\"\n      |spponacular|\n      |mealdb     |\n      \n    Scenario:\n      When the information placed in the command entitites\n      And the command entity will call RefreshMAinPageFoodsEntitiy\n      When the given \"RefreshMAinPageFoodsEntitiy\"\n      Then the count value tells the client the amount of food that will load in the cache.\n      \n    Scenario:\n      Given the Post request is send for job name\n      And the  job names will provide <spoonacular> <mealdb> <mainpagefoods>\n      When the Get request is send to job history\n      Then the job name from latest execution time will be receieved\n      \n      \n    \n      \n      \n      \n     \n      \n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- features/Job_Worker_Service_Implementation.feature	(revision ad4bdcd9c25a4d014c57bbd491ea95308a654c60)
++++ features/Job_Worker_Service_Implementation.feature	(date 1622496251408)
+@@ -8,8 +8,7 @@
+       |Spoonacular Api Consuming Job  |    
+       |MealDb Api Consuming Job       |     
+       |Main Page Foods Refreshing Job |
+-      | trial                         |
+-      
++
+ 
+   Scenario:
+        Given the work service an execution period

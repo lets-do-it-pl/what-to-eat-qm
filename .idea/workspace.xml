@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="857f77ba-d682-4965-a1fb-b0a5c46b1737" name="Default Changelist" comment="Resources folder is added" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tB6LHvJHMauqN7f9vpHJsNlFDk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/test/resources/features" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="857f77ba-d682-4965-a1fb-b0a5c46b1737" name="Default Changelist" comment="" />
+      <created>1622194996395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622194996395</updated>
+    </task>
+    <task id="LOCAL-00001" summary="changes on feature file is made.">
+      <created>1622195664614</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622195664615</updated>
+    </task>
+    <task id="LOCAL-00002" summary="trail pipe line is added">
+      <created>1622496192462</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622496192462</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Resources folder is added">
+      <created>1622541386985</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622541386985</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes on feature file is made." />
+    <MESSAGE value="trail pipe line is added" />
+    <MESSAGE value="trial is deleted" />
+    <MESSAGE value="Resources folder is added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resources folder is added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="0" key="#Project_Structure" timestamp="1622452802801">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="416" y="0" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1622452802801" />
+    <state x="416" y="23" key="#Project_Structure/0.23.1440.804@0.23.1440.804" timestamp="1622195153419" />
+    <state x="806" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622195355054">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="806" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.804@0.23.1440.804" timestamp="1622195355054" />
+    <state x="468" y="293" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1622495883340">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="468" y="293" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1440.900@0.0.1440.900" timestamp="1622495883340" />
+    <state x="456" y="121" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1622455545659">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="456" y="121" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.804@0.23.1440.804" timestamp="1622455545659" />
+    <state x="49" y="23" key="CommitChangelistDialog2" timestamp="1622541403248">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="49" y="23" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1622541403248" />
+    <state x="615" y="23" key="CommitChangelistDialog2/0.23.1440.804@0.23.1440.804" timestamp="1622195664469" />
+    <state x="331" y="23" width="1024" height="804" key="SettingsEditor" timestamp="1622546188935">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="331" y="23" width="1024" height="804" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1622546188935" />
+    <state x="540" y="23" width="900" height="722" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1622534917835" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1622541410363">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1622541410363" />
+    <state x="627" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622200813573">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="627" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.804@0.23.1440.804" timestamp="1622200813573" />
+    <state x="613" y="214" width="598" height="548" key="find.popup" timestamp="1622195893910">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="613" y="214" width="598" height="548" key="find.popup/0.23.1440.804@0.23.1440.804" timestamp="1622195893910" />
+    <state x="757" y="145" key="git4idea.branch.GitSmartOperationDialog" timestamp="1622534409804">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="757" y="145" key="git4idea.branch.GitSmartOperationDialog/0.23.1440.804@0.23.1440.804" timestamp="1622534409804" />
+    <state x="111" y="153" key="new project wizard" timestamp="1622455167729">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="111" y="153" key="new project wizard/0.23.1440.804@0.23.1440.804" timestamp="1622455167729" />
+    <state x="342" y="327" key="svn.passwordDialog" timestamp="1622195602663">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="342" y="327" key="svn.passwordDialog/0.23.1440.804@0.23.1440.804" timestamp="1622195602663" />
+    <state x="558" y="223" key="svn.repositoryBrowser" timestamp="1622195604614">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="558" y="223" key="svn.repositoryBrowser/0.23.1440.804@0.23.1440.804" timestamp="1622195604614" />
+    <state x="350" y="206" key="svn4idea.import.options" timestamp="1622195447045">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="350" y="206" key="svn4idea.import.options/0.23.1440.804@0.23.1440.804" timestamp="1622195447045" />
+  </component>
+</project>
